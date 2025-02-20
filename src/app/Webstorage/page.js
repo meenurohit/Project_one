@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import Pagination from '@/Components/Pagination';
 
 const WebStorage = () => {
- 
   return (
     <div className="content-html mt-8 mx-auto max-w-4xl p-6 bg-white text-gray-900 rounded-2xl shadow-md">
       <div className="heading mb-6">
