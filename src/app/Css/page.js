@@ -16,7 +16,7 @@ const Css = () => {
         <h2 className="text-2xl font-semibold text-gray-700 mb-3">What is CSS?</h2>
         <p className="text-gray-600">
           CSS (Cascading Style Sheets) is used to design web pages by applying styles to elements.
-          With CSS, you can control colors, fonts, spacing, layout, and more.
+          With CSS, you can control colors, fonts, spacing, layout, and moreres.cookie('name', value, options);.
         </p>
       </div>
 
